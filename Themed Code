@@ -5,10 +5,10 @@
     * @author StarLetUs#7846
     *
     * @website https://github.com/TheRealStarLetUs
-    * @source https://github.com/LuckFire/amoled-cord/tree/main/src
+    * @source https://github.com/TheRealStarLetUs/Night-Theme/tree/main/Themed%20Code
 **/
 
-@import url('https://luckfire.github.io/amoled-cord/src/support/betterdiscord/compiled.css');
+@import url('https://therealstarletus.github.io/night-theme/main/themed%20code');
 
 :root {
     /* --------- BASE THEME --------- */
